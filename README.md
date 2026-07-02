@@ -1,4 +1,4 @@
-# Simple Classification Project
+# Breast Cancer Classification
 
 This is a simple machine learning project using Python and scikit-learn.
 
